@@ -23,7 +23,7 @@ GIU robotics lab.
 | | |
 | :-- | :-- |
 | [**ERP-Helaly**](https://github.com/tarekokashha/ERP-Helaly) | Bilingual ERP for construction and infrastructure. Full Arabic RTL, multi-country, dual currency. |
-| [**SMIS Sports System**](https://github.com/tarekokashha/smis) | Sports Medical Information System for professional clubs. Arabic RTL, React, Express, MySQL. |
+| [**smis**](https://github.com/tarekokashha/smis) | Sports Medical Information System for professional clubs. Arabic RTL, React, Express, MySQL. |
 | [**biolumin-store**](https://github.com/tarekokashha/biolumin-store) | Bilingual boutique commerce for one-of-one luxury drops. Next.js, TypeScript, Prisma. |
 
 ---
@@ -42,5 +42,5 @@ Python &middot; C &middot; C++ &middot; ROS 2 (Humble) &middot; MoveIt 2 &middot
 
 - **Status** &mdash; open to robotics research collaboration, MSc supervision enquiries, and selected client work
 - **Languages** &mdash; Arabic (native), English (fluent), German (in progress)
-- **Site** &mdash; [tarekokasha-portfolio.vercel.app](https://tarekokasha-portfolio.vercel.app)
+- **Site** &mdash; [tarek-portfolio-phi.vercel.app](https://tarek-portfolio-phi.vercel.app)
 - **Email** &mdash; tarekokasha53@gmail.com
