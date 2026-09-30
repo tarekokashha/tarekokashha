@@ -30,10 +30,10 @@ GIU robotics lab.
 
 | | |
 | :-- | :-- |
-| [**965toys**](https://github.com/tarekokashha/965toys-storefront) | Kuwait toy storefront rebuild. Case study and selected child-theme source. The public site is currently coming soon. |
-| [**965gym**](https://github.com/tarekokashha/965gym-storefront) | Live Arabic-first sports equipment storefront for Kuwait. Public-facing case study. |
-| [**965play**](https://github.com/tarekokashha/965play-storefront) | Live gaming and electronics storefront for Kuwait. Case study with operational integrations kept private. |
-| [**QX Media**](https://github.com/tarekokashha/qx-media-brand) | Riyadh marketing agency brand and website. Case study and selected WordPress theme source. |
+| [**965toys**](https://github.com/tarekokashha/965toys-storefront) | I built this Arabic-first toy storefront for Kuwait. Selected child-theme source is public; the domain currently shows a coming-soon page. |
+| [**965gym**](https://github.com/tarekokashha/965gym-storefront) | I built this live Arabic-first sports equipment storefront for Kuwait. |
+| [**965play**](https://github.com/tarekokashha/965play-storefront) | I built this live gaming and electronics storefront for Kuwait. Operational integrations stay private. |
+| [**QX Media**](https://github.com/tarekokashha/qx-media-brand) | I built the Riyadh agency's brand and website, with selected WordPress theme source published. |
 
 ---
 
@@ -53,4 +53,3 @@ Python &middot; C &middot; C++ &middot; ROS 2 (Humble) &middot; MoveIt 2 &middot
 - **Languages:** Arabic (native), English (fluent), German (in progress)
 - **Site:** [tarek-portfolio-phi.vercel.app](https://tarek-portfolio-phi.vercel.app)
 - **Email:** tarekokasha53@gmail.com
-
