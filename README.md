@@ -23,16 +23,25 @@ GIU robotics lab.
 | | |
 | :-- | :-- |
 | [**ERP-Helaly**](https://github.com/tarekokashha/ERP-Helaly) | Bilingual ERP for construction and infrastructure. Full Arabic RTL, multi-country, dual currency. |
-| [**smis**](https://github.com/tarekokashha/smis) | Sports Medical Information System for professional clubs. Arabic RTL, React, Express, MySQL. |
+| [**SMIS-Sports-System**](https://github.com/tarekokashha/SMIS-Sports-System) | Sports Medical Information System for professional clubs. Arabic RTL, React, Express, MySQL. |
 | [**biolumin-store**](https://github.com/tarekokashha/biolumin-store) | Bilingual boutique commerce for one-of-one luxury drops. Next.js, TypeScript, Prisma. |
+
+#### Brands and storefronts
+
+| | |
+| :-- | :-- |
+| [**965toys**](https://github.com/tarekokashha/965toys-storefront) | Kuwait toy storefront rebuild. Case study and selected child-theme source. The public site is currently coming soon. |
+| [**965gym**](https://github.com/tarekokashha/965gym-storefront) | Live Arabic-first sports equipment storefront for Kuwait. Public-facing case study. |
+| [**965play**](https://github.com/tarekokashha/965play-storefront) | Live gaming and electronics storefront for Kuwait. Case study with operational integrations kept private. |
+| [**QX Media**](https://github.com/tarekokashha/qx-media-brand) | Riyadh marketing agency brand and website. Case study and selected WordPress theme source. |
 
 ---
 
 #### How I work
 
-Every repository here states the hardware it was tested on, pins its environment, and gives you
-the exact command that reproduces the numbers in its README. If a result came from simulation, it
-says so. If it ran on the physical arm, there is video.
+Engineering repositories distinguish tested hardware from simulation and document how results were
+checked. Client case studies link to the public work and say clearly when source code or operating
+details are not included.
 
 #### Stack
 
@@ -40,7 +49,8 @@ Python &middot; C &middot; C++ &middot; ROS 2 (Humble) &middot; MoveIt 2 &middot
 
 #### Contact
 
-- **Status** &mdash; open to robotics research collaboration, MSc supervision enquiries, and selected client work
-- **Languages** &mdash; Arabic (native), English (fluent), German (in progress)
-- **Site** &mdash; [tarek-portfolio-phi.vercel.app](https://tarek-portfolio-phi.vercel.app)
-- **Email** &mdash; tarekokasha53@gmail.com
+- **Status:** Open to robotics research collaboration, MSc supervision enquiries, and selected client work
+- **Languages:** Arabic (native), English (fluent), German (in progress)
+- **Site:** [tarek-portfolio-phi.vercel.app](https://tarek-portfolio-phi.vercel.app)
+- **Email:** tarekokasha53@gmail.com
+
